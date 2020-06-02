@@ -4,7 +4,7 @@
 #
 Name     : perl-Mail-Mailer
 Version  : 2.21
-Release  : 3
+Release  : 4
 URL      : https://cpan.metacpan.org/authors/id/M/MA/MARKOV/MailTools-2.21.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/M/MA/MARKOV/MailTools-2.21.tar.gz
 Summary  : 'Various ancient e-mail related modules'
@@ -95,35 +95,35 @@ find %{buildroot} -type f -name '*.bs' -empty -exec rm -f {} ';'
 
 %files perl
 %defattr(-,root,root,-)
-/usr/lib/perl5/vendor_perl/5.30.2/Mail/Address.pm
-/usr/lib/perl5/vendor_perl/5.30.2/Mail/Address.pod
-/usr/lib/perl5/vendor_perl/5.30.2/Mail/Cap.pm
-/usr/lib/perl5/vendor_perl/5.30.2/Mail/Cap.pod
-/usr/lib/perl5/vendor_perl/5.30.2/Mail/Field.pm
-/usr/lib/perl5/vendor_perl/5.30.2/Mail/Field.pod
-/usr/lib/perl5/vendor_perl/5.30.2/Mail/Field/AddrList.pm
-/usr/lib/perl5/vendor_perl/5.30.2/Mail/Field/AddrList.pod
-/usr/lib/perl5/vendor_perl/5.30.2/Mail/Field/Date.pm
-/usr/lib/perl5/vendor_perl/5.30.2/Mail/Field/Date.pod
-/usr/lib/perl5/vendor_perl/5.30.2/Mail/Field/Generic.pm
-/usr/lib/perl5/vendor_perl/5.30.2/Mail/Field/Generic.pod
-/usr/lib/perl5/vendor_perl/5.30.2/Mail/Filter.pm
-/usr/lib/perl5/vendor_perl/5.30.2/Mail/Filter.pod
-/usr/lib/perl5/vendor_perl/5.30.2/Mail/Header.pm
-/usr/lib/perl5/vendor_perl/5.30.2/Mail/Header.pod
-/usr/lib/perl5/vendor_perl/5.30.2/Mail/Internet.pm
-/usr/lib/perl5/vendor_perl/5.30.2/Mail/Internet.pod
-/usr/lib/perl5/vendor_perl/5.30.2/Mail/Mailer.pm
-/usr/lib/perl5/vendor_perl/5.30.2/Mail/Mailer.pod
-/usr/lib/perl5/vendor_perl/5.30.2/Mail/Mailer/qmail.pm
-/usr/lib/perl5/vendor_perl/5.30.2/Mail/Mailer/rfc822.pm
-/usr/lib/perl5/vendor_perl/5.30.2/Mail/Mailer/sendmail.pm
-/usr/lib/perl5/vendor_perl/5.30.2/Mail/Mailer/smtp.pm
-/usr/lib/perl5/vendor_perl/5.30.2/Mail/Mailer/smtps.pm
-/usr/lib/perl5/vendor_perl/5.30.2/Mail/Mailer/testfile.pm
-/usr/lib/perl5/vendor_perl/5.30.2/Mail/Send.pm
-/usr/lib/perl5/vendor_perl/5.30.2/Mail/Send.pod
-/usr/lib/perl5/vendor_perl/5.30.2/Mail/Util.pm
-/usr/lib/perl5/vendor_perl/5.30.2/Mail/Util.pod
-/usr/lib/perl5/vendor_perl/5.30.2/MailTools.pm
-/usr/lib/perl5/vendor_perl/5.30.2/MailTools.pod
+/usr/lib/perl5/vendor_perl/5.30.3/Mail/Address.pm
+/usr/lib/perl5/vendor_perl/5.30.3/Mail/Address.pod
+/usr/lib/perl5/vendor_perl/5.30.3/Mail/Cap.pm
+/usr/lib/perl5/vendor_perl/5.30.3/Mail/Cap.pod
+/usr/lib/perl5/vendor_perl/5.30.3/Mail/Field.pm
+/usr/lib/perl5/vendor_perl/5.30.3/Mail/Field.pod
+/usr/lib/perl5/vendor_perl/5.30.3/Mail/Field/AddrList.pm
+/usr/lib/perl5/vendor_perl/5.30.3/Mail/Field/AddrList.pod
+/usr/lib/perl5/vendor_perl/5.30.3/Mail/Field/Date.pm
+/usr/lib/perl5/vendor_perl/5.30.3/Mail/Field/Date.pod
+/usr/lib/perl5/vendor_perl/5.30.3/Mail/Field/Generic.pm
+/usr/lib/perl5/vendor_perl/5.30.3/Mail/Field/Generic.pod
+/usr/lib/perl5/vendor_perl/5.30.3/Mail/Filter.pm
+/usr/lib/perl5/vendor_perl/5.30.3/Mail/Filter.pod
+/usr/lib/perl5/vendor_perl/5.30.3/Mail/Header.pm
+/usr/lib/perl5/vendor_perl/5.30.3/Mail/Header.pod
+/usr/lib/perl5/vendor_perl/5.30.3/Mail/Internet.pm
+/usr/lib/perl5/vendor_perl/5.30.3/Mail/Internet.pod
+/usr/lib/perl5/vendor_perl/5.30.3/Mail/Mailer.pm
+/usr/lib/perl5/vendor_perl/5.30.3/Mail/Mailer.pod
+/usr/lib/perl5/vendor_perl/5.30.3/Mail/Mailer/qmail.pm
+/usr/lib/perl5/vendor_perl/5.30.3/Mail/Mailer/rfc822.pm
+/usr/lib/perl5/vendor_perl/5.30.3/Mail/Mailer/sendmail.pm
+/usr/lib/perl5/vendor_perl/5.30.3/Mail/Mailer/smtp.pm
+/usr/lib/perl5/vendor_perl/5.30.3/Mail/Mailer/smtps.pm
+/usr/lib/perl5/vendor_perl/5.30.3/Mail/Mailer/testfile.pm
+/usr/lib/perl5/vendor_perl/5.30.3/Mail/Send.pm
+/usr/lib/perl5/vendor_perl/5.30.3/Mail/Send.pod
+/usr/lib/perl5/vendor_perl/5.30.3/Mail/Util.pm
+/usr/lib/perl5/vendor_perl/5.30.3/Mail/Util.pod
+/usr/lib/perl5/vendor_perl/5.30.3/MailTools.pm
+/usr/lib/perl5/vendor_perl/5.30.3/MailTools.pod
