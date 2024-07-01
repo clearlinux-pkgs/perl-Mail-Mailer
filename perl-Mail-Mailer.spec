@@ -4,7 +4,7 @@
 #
 Name     : perl-Mail-Mailer
 Version  : 2.21
-Release  : 11
+Release  : 12
 URL      : https://cpan.metacpan.org/authors/id/M/MA/MARKOV/MailTools-2.21.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/M/MA/MARKOV/MailTools-2.21.tar.gz
 Summary  : 'Various ancient e-mail related modules'
